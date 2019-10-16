@@ -1,0 +1,2 @@
+face_reco.py creates encodings for new faces and stores it in a text file
+FaceRecognition.py runs face rec on the pre stored image and shows the result
